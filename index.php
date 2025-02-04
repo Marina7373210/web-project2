@@ -51,7 +51,23 @@
         </div>
     </div>
 </nav>
-<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+
+<div class="banner mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-5">
+                <h1 class="display-4 fw-bold">Banner</h1>
+                <p>You don't need to read this. Now that you have decided to read it anyways, its just some random dummy text to fill up the space for Bootstrap banner or hero section.</p>
+                <button class="btn btn-success">Learn More</button>
+            </div>
+            <div class="col-sm-7">
+                <img class="img-fluid" src="..." alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="mt-5 row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
     <div class="col mb-3">
         <a href="/" class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none">
             <svg class="bi me-2" width="40" height="32">
